@@ -9,9 +9,9 @@
 
 # Top 10 compaines
 
+- Tiltify, AZ
 - NVIDIA, CA
 - Aware3, OR
-- Tiltify, AZ
 - TitleOne, ID
 - Xyem, ID
 - CradelPoint, ID
